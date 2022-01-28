@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OpenCV.cpp.obj": [
+			"OpenCV.cpp.obj",
+			"WebcamReader.cpp.obj"
+		],
+		"Module.OpenCV.gen.cpp.obj": [
+			"OpenCV.init.gen.cpp.obj",
+			"WebcamReader.gen.cpp.obj"
+		]
+	}
+}

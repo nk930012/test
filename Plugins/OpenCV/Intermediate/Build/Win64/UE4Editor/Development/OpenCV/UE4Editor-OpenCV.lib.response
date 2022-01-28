@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OpenCV.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sis10154\Documents\GitHub\test\Intermediate\Build\Win64\MediapipeProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\sis10154\Documents\GitHub\test\Plugins\OpenCV\Intermediate\Build\Win64\UE4Editor\Development\OpenCV\Module.OpenCV.cpp.obj"
+"C:\Users\sis10154\Documents\GitHub\test\Plugins\OpenCV\Intermediate\Build\Win64\UE4Editor\Development\OpenCV\Module.OpenCV.gen.cpp.obj"
+"C:\Users\sis10154\Documents\GitHub\test\Plugins\OpenCV\Intermediate\Build\Win64\UE4Editor\Development\OpenCV\Default.rc2.res"
+/OUT:"C:\Users\sis10154\Documents\GitHub\test\Plugins\OpenCV\Intermediate\Build\Win64\UE4Editor\Development\OpenCV\UE4Editor-OpenCV.lib"
